@@ -1,8 +1,14 @@
 window.computeUsersStats = (users, progress, courses) =>{
 
+  Object.entries((usersJSON) => {
+    forEach()
+  })
+
 };
 
 window.sortUsers = (users, orderBy, orderDirection) => {
+
+  computeUsersStats.sort();
 
 };
 
