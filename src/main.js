@@ -1,10 +1,14 @@
+
+
 window.computeUsersStats = (users, progress, courses) =>{
 
   Object.entries((usersJSON) => {
-    forEach()
+   forEach(() => {
+      
+    })
   })
+}
 
-};
 
 window.sortUsers = (users, orderBy, orderDirection) => {
 
@@ -13,7 +17,7 @@ window.sortUsers = (users, orderBy, orderDirection) => {
 };
 
 window.filterUsers = (users, search) => {
-
+  sortUsers.substring(0, 3);
 };
 
 window.processCohortData = (options) => {
